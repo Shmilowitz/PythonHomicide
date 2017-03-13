@@ -26,10 +26,12 @@ Solutions
 ![picture alt](http://i.imgur.com/nyvX1Q7.png)
 
 ## 4.What is the age of the youngest victim and the oldest victim?
- We added TXT file
+We added TXT file to the project. Didn't see any reason to display with a graph
+ ![picture alt](http://i.imgur.com/Zu0pSLS.jpg)
 
 ## 5.Average age of victims?
- We added TXT file
+We added TXT file to the project. Didn't see any reason to display with a graph
+![picture alt](http://i.imgur.com/Ti46wIl.jpg)
 
 ## 6. Male to female ratio of perpetrators?
 ![picture alt](http://i.imgur.com/hOn1crU.png)
