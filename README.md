@@ -17,7 +17,7 @@ Questions asked
 Solutions
 -------
 ####Question 1
-![picture alt]()
+![picture alt](http://i.imgur.com/kiTMhvX.png)
 ####Question 2
 ![picture alt]()
 ####Question 3
