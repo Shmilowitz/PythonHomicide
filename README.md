@@ -16,10 +16,12 @@ Questions asked
 
 Solutions
 -------
-####Question 1
+#### 1.Which ethnicity is it most common for the victims and perpetrators to be?
 ![picture alt](http://i.imgur.com/kiTMhvX.png)
-####Question 2
-![picture alt]()
+![picture alt](http://i.imgur.com/lqvISgY.png)
+#### 2.Which weapon is most used by men?
+![picture alt](http://i.imgur.com/9f7HiSa.png)
+![picture alt](http://i.imgur.com/nyvX1Q7.png)
 ####Question 3
 ![picture alt]()
 ####Question 4
