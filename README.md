@@ -19,9 +19,11 @@ Solutions
 There is a lot of "unknowns" in both graphs, which makes it harder to make it harder to analyze.  
 Hispanic are more involved in crimes than non-hispanic(Both victims and perpetrators).  
 Less unknown ethnicity in victim's graph. Probably easier to document the ethnicity of victims than perpetrators for unsolved cases.    
+            |  
+:-------------------------:|:-------------------------:
+![picture alt](http://i.imgur.com/lqvISgY.png)  |  ![picture alt](http://i.imgur.com/kiTMhvX.png)
 
-![picture alt](http://i.imgur.com/kiTMhvX.png)
-![picture alt](http://i.imgur.com/lqvISgY.png)
+
 
 ## 2.Which weapon is most used by men?
  * First thing to note is the numbers between the two graphs. Men are more often killers than women.  
