@@ -32,7 +32,7 @@ Solutions
  We added TXT file
 
 ## 6. Male to female ratio of perpetrators?
-![picture alt]http://i.imgur.com/hOn1crU.png()
+![picture alt](http://i.imgur.com/hOn1crU.png)
 
 ## 7. Top 10 states with most homicides? display it with bars (barchart) or similar
 ![picture alt](http://i.imgur.com/RyLyWNR.png)
