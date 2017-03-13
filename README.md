@@ -46,7 +46,7 @@ Youngest victim was 0 years old. Oldest guy was 998 years old. Seemed like an er
 ## 5.Average age of victims?
 We added TXT file to the project. Didn't see any reason to display with a graph.  
 Here is a snippet of the code getting the average age of victims and writing to a txt file.  
-Average age was 35.0.
+Average age was 35.0.  
 ![picture alt](http://i.imgur.com/Ti46wIl.jpg)
 
 ## 6. Male to female ratio of perpetrators?
@@ -75,5 +75,6 @@ Heres a list of the biggest states in US by population:
 ![picture alt](http://i.imgur.com/RyLyWNR.png)
 
 ## 8. Are younger perpetrators (age 15-25) more likely to get caught then older ones (25+)?
+The % of people not getting caught has so little a difference. Age doesn't affect chances of getting caught statistically.  
 ![picture alt](http://i.imgur.com/Gh4JYa5.png)
 ![picture alt](http://i.imgur.com/DFmFyuv.png)
