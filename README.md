@@ -56,7 +56,8 @@ Average age was 35.0.
 ## 7. Top 10 states with most homicides? display it with bars (barchart) or similar
 This graph needs to compare with population numbers of the states.  
 Eg. "Top 10 states with most homicides per citizen"  
-Heres a list of the biggest states in US by population
+Heres a list of the biggest states in US by population:  
+
 | 1. California     	| 39,250,017 	| ✔ 	| 0.254% 	| 1  	|
 |-------------------	|------------	|---	|--------	|----	|
 | 2. Texas          	| 27,862,596 	| ✔ 	| 0.222% 	| 2  	|
@@ -68,7 +69,8 @@ Heres a list of the biggest states in US by population
 | 8. Georgia        	| 10,310,371 	| ✔ 	| 0.204% 	| 8  	|
 | 9. North Carolina 	| 10,146,788 	| ✔ 	| 0.200% 	| 9  	|
 | 10.Michigan       	| 9,928,301  	| ✔ 	| 0.286% 	| 5  	|
-| 25. Louisiana     	| 4,681,666  	| ✔ 	| 0.419% 	| 10 	|
+| 25. Louisiana     	| 4,681,666  	| ✔ 	| 0.419% 	| 10 	|  
+
 * 1. California		    39,250,017 ✔
 * 2. Texas			        27,862,596 ✔
 * 3. Florida			      20,612,439	✔
