@@ -16,16 +16,14 @@ Questions asked
 
 Solutions
 -------
-#### 1.Which ethnicity is it most common for the victims and perpetrators to be?
+## 1.Which ethnicity is it most common for the victims and perpetrators to be?
 ![picture alt](http://i.imgur.com/kiTMhvX.png)
 ![picture alt](http://i.imgur.com/lqvISgY.png)
-#### 2.Which weapon is most used by men?
+## 2.Which weapon is most used by men?
 ![picture alt](http://i.imgur.com/9f7HiSa.png)
+## 3.Which weapon is most used by women?
 ![picture alt](http://i.imgur.com/nyvX1Q7.png)
-####Question 3
-![picture alt]()
 ####Question 4
-![picture alt]()
 ####Question 5
 ![picture alt]()
 ####Question 6
