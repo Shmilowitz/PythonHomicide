@@ -57,17 +57,17 @@ Average age was 35.0.
 This graph needs to compare with population numbers of the states.  
 Eg. "Top 10 states with most homicides per citizen"  
 Heres a list of the biggest states in US by population
-* 1. California		39,250,017 ✔
-* 2. Texas			27,862,596 ✔
-* 3. Florida			20,612,439	✔
-* 4. New York			19,745,289 ✔
-* 5. Pennsylvania		12,802,503 ✔
-* 6. Illinois			12,801,539 ✔
-* 7. Ohio				11,614,373 
-* 8. Georgia			10,310,371 ✔
+* 1. California		    39,250,017 ✔
+* 2. Texas			        27,862,596 ✔
+* 3. Florida			      20,612,439	✔
+* 4. New York			     19,745,289 ✔
+* 5. Pennsylvania		  12,802,503 ✔
+* 6. Illinois			     12,801,539 ✔
+* 7. Ohio				        11,614,373 
+* 8. Georgia			      10,310,371 ✔
 * 9. North Carolina 	10,146,788 ✔
-* 10. Michigan			9,928,301 ✔
-* 25. Louisiana	4,681,666
+* 10. Michigan			     9,928,301 ✔
+* 25. Louisiana	      4,681,666 ✔
 
 ![picture alt](http://i.imgur.com/RyLyWNR.png)
 
