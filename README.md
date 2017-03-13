@@ -24,12 +24,12 @@ Less unknown ethnicity in victim's graph. Probably easier to document the ethnic
 ![picture alt](http://i.imgur.com/lqvISgY.png)
 
 ## 2.Which weapon is most used by men?
-First thing to note is the numbers between the two graphs. Men are more often killers than women.  
-Women tend to use "Knife" or "Blunt objects" more often than men.  
-Women use "Knife" 0.80 for every 1.0 time they use "Handgun". (1:0.8)  
-Men use "Knife" 0.30 for every 1.0 time they use "Handgun". (1:0.3)
-Women use "Blunt Object" 0.33 for every 1.0 time they use "Handgun". (1:0.33)  
-Men use "Blunt Object" 0.23 for every 1.0 time they use "Handgun". (1:0.23)
+ * First thing to note is the numbers between the two graphs. Men are more often killers than women.  
+ * Women tend to use "Knife" or "Blunt objects" more often than men.  
+ * Women use "Knife" 0.80 for every 1.0 time they use "Handgun". (1:0.8)  
+ * Men use "Knife" 0.30 for every 1.0 time they use "Handgun". (1:0.3)
+ * Women use "Blunt Object" 0.33 for every 1.0 time they use "Handgun". (1:0.33)  
+ * Men use "Blunt Object" 0.23 for every 1.0 time they use "Handgun". (1:0.23)
 ![picture alt](http://i.imgur.com/9f7HiSa.png)
 
 ## 3.Which weapon is most used by women?
