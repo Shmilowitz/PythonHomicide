@@ -26,12 +26,12 @@ Solutions
 ![picture alt](http://i.imgur.com/nyvX1Q7.png)
 
 ## 4.What is the age of the youngest victim and the oldest victim?
-We added TXT file to the project. Didn't see any reason to display with a graph.
+We added TXT file to the project. Didn't see any reason to display with a graph.  
 Here is a snippet of the code getting the age of the youngest and the oldest victim and writing to a txt file.
  ![picture alt](http://i.imgur.com/Zu0pSLS.jpg)
 
 ## 5.Average age of victims?
-We added TXT file to the project. Didn't see any reason to display with a graph.
+We added TXT file to the project. Didn't see any reason to display with a graph.  
 Here is a snippet of the code getting the average age of victims and writing to a txt file.
 ![picture alt](http://i.imgur.com/Ti46wIl.jpg)
 
