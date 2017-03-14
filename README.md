@@ -83,5 +83,5 @@ The % of people not getting caught has so little a difference. Age doesn't affec
 
 Authors
 -------
-David Shmilowitz  
-Jonathan Szigethy
+### David Shmilowitz  
+### Jonathan Szigethy
