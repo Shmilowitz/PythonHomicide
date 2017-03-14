@@ -80,3 +80,8 @@ Heres a list of the biggest states in US by population:
 The % of people not getting caught has so little a difference. Age doesn't affect chances of getting caught statistically.  
 ![picture alt](http://i.imgur.com/Gh4JYa5.png)
 ![picture alt](http://i.imgur.com/DFmFyuv.png)
+
+Authors
+-------
+David Shmilowitz
+Jonathan Szigethy
