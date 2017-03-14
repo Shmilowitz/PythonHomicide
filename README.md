@@ -58,7 +58,7 @@ Average age was 35.0.
 
 ## 7. Top 10 states with most homicides? display it with bars (barchart) or similar
 This graph needs to compare with population numbers of the states.  
-Eg. "Top 10 states with most homicides per citizen"  
+e.g. "Top 10 states with most homicides per citizen"  
 Heres a list of the biggest states in US by population:  
 
 | top 10 homicides state    	| Population 	| In Top 10 state by population  	| Homicides per 100 	|  Rank in population 	|
