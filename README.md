@@ -1,6 +1,7 @@
 Synopsis
 =============
-This is our solutions for the python exercise about Homicide Reports US 1980-2014.
+This is our solutions for the python exercise about Homicide Reports US 1980-2014. 
+The github repo contains all python files, all charts generated as images and 2 txt files.
 
 Questions asked
 -------
@@ -60,7 +61,7 @@ This graph needs to compare with population numbers of the states.
 Eg. "Top 10 states with most homicides per citizen"  
 Heres a list of the biggest states in US by population:  
 
-| top 10 homicides state    	| Population 	| In Graph 	| Homicides per 100 	|  Rank in population 	|
+| top 10 homicides state    	| Population 	| In Top 10 state by population  	| Homicides per 100 	|  Rank in population 	|
 |-------------------	|------------	|---	|--------	|----	|
 | 1. California     	| 39,250,017 	| ✔ 	| 0.254 	| 1  	|
 | 2. Texas          	| 27,862,596 	| ✔ 	| 0.222 	| 2	|
@@ -71,7 +72,7 @@ Heres a list of the biggest states in US by population:
 | 7. Pennsylvania   	| 12,802,503 	| ✔ 	| 0.189 	|  5 	|
 | 8. Georgia        	| 10,310,371 	| ✔ 	| 0.204 	|  8 	|
 | 9. North Carolina 	| 10,146,788 	| ✔ 	| 0.200 	|  9 	|
-| 10. Louisiana     	| 4,681,666  	| ✔ 	| 0.419	| 25 	| 
+| 10. Louisiana     	| 4,681,666  	|  	| 0.419	| 25 	| 
 
 
 ![picture alt](http://i.imgur.com/RyLyWNR.png)
