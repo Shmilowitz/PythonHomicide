@@ -1,6 +1,6 @@
 Synopsis
 =============
-This is our solution for the python exercise about Homicide Reports US 1980-2014.
+This is our solutions for the python exercise about Homicide Reports US 1980-2014.
 
 Questions asked
 -------
@@ -32,7 +32,7 @@ Less unknown ethnicity in victim's graph. Probably easier to document the ethnic
  * Men use "Knife" 0.30 for every 1.0 time they use "Handgun". (1:0.3)
  * Women use "Blunt Object" 0.33 for every 1.0 time they use "Handgun". (1:0.33)  
  * Men use "Blunt Object" 0.23 for every 1.0 time they use "Handgun". (1:0.23)
-This might be because women isn't as gang related as men and therefore doesn't have Handgun as often.  
+This might be because women isn't as gang-related as men and therefore doesn't have Handgun as often.  
 Their murders might be more in the heat of the moment. 
 ![picture alt](http://i.imgur.com/9f7HiSa.png)
 
