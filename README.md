@@ -62,16 +62,16 @@ Heres a list of the biggest states in US by population:
 
 | top 10 homicides state    	| Population 	| In Graph 	| % homicide per citizen 	|  Rank in population 	|
 |-------------------	|------------	|---	|--------	|----	|
-| 1. California     	| 39,250,017 	| ✔ 	| 0.254% 	| 1  	|
-| 2. Texas          	| 27,862,596 	| ✔ 	| 0.222% 	| 2	|
-| 3. New York       	| 19,745,289 	| ✔ 	| 0.249% 	| 4 	|
-| 4. Florida        	| 20,612,439 	| ✔ 	| 0.180% 	| 3 	|
-| 5.Michigan       	| 9,928,301  	| ✔ 	| 0.286% 	|  10 	|
-| 6. Illinois       	| 12,801,539 	| ✔ 	| 0.202% 	|  6 	|
-| 7. Pennsylvania   	| 12,802,503 	| ✔ 	| 0.189% 	|  5 	|
-| 8. Georgia        	| 10,310,371 	| ✔ 	| 0.204% 	|  8 	|
-| 9. North Carolina 	| 10,146,788 	| ✔ 	| 0.200% 	|  9 	|
-| 10. Louisiana     	| 4,681,666  	| ✔ 	| 0.419% 	| 25 	| 
+| 1. California     	| 39,250,017 	| ✔ 	| 0.254 	| 1  	|
+| 2. Texas          	| 27,862,596 	| ✔ 	| 0.222 	| 2	|
+| 3. New York       	| 19,745,289 	| ✔ 	| 0.249 	| 4 	|
+| 4. Florida        	| 20,612,439 	| ✔ 	| 0.180 	| 3 	|
+| 5.Michigan       	| 9,928,301  	| ✔ 	| 0.286 	|  10 	|
+| 6. Illinois       	| 12,801,539 	| ✔ 	| 0.202	|  6 	|
+| 7. Pennsylvania   	| 12,802,503 	| ✔ 	| 0.189 	|  5 	|
+| 8. Georgia        	| 10,310,371 	| ✔ 	| 0.204 	|  8 	|
+| 9. North Carolina 	| 10,146,788 	| ✔ 	| 0.200 	|  9 	|
+| 10. Louisiana     	| 4,681,666  	| ✔ 	| 0.419	| 25 	| 
 
 
 ![picture alt](http://i.imgur.com/RyLyWNR.png)
