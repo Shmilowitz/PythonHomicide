@@ -60,7 +60,7 @@ This graph needs to compare with population numbers of the states.
 Eg. "Top 10 states with most homicides per citizen"  
 Heres a list of the biggest states in US by population:  
 
-| top 10 homicides state    	| Population 	| In Graph 	| % homicide per citizen 	|  Rank in population 	|
+| top 10 homicides state    	| Population 	| In Graph 	| Homicides per 100 	|  Rank in population 	|
 |-------------------	|------------	|---	|--------	|----	|
 | 1. California     	| 39,250,017 	| ✔ 	| 0.254 	| 1  	|
 | 2. Texas          	| 27,862,596 	| ✔ 	| 0.222 	| 2	|
