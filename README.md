@@ -75,7 +75,9 @@ Heres a list of the biggest states in US by population:
 | 8. Georgia        	| 10,310,371 	| ✔ 	| 488.9 	|  8 	|
 | 9. North Carolina 	| 10,146,788 	| ✔ 	| 497.6 	|  9 	|
 | 10. Louisiana     	| 4,681,666  	|  	| 238.5 | 25 	|   
-http://i.imgur.com/5boFSFh.png
+
+
+![picture alt](http://i.imgur.com/5boFSFh.png)
 
 ## 8. Are younger perpetrators (age 15-25) more likely to get caught then older ones (25+)?
 The % of people not getting caught has so little a difference. Age doesn't affect chances of getting caught statistically.  
