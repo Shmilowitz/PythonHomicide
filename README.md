@@ -59,6 +59,8 @@ Average age was 35.0.
 ## 7. Top 10 states with most homicides? display it with bars (barchart) or similar
 This graph needs to compare with population numbers of the states.  
 e.g. "Top 10 states with most homicides per citizen"  
+![picture alt](http://i.imgur.com/RyLyWNR.png)  
+
 Heres a list of the biggest states in US by population:  
 
 | top 10 homicides state    	| Population 	| In Top 10 state by population  	| Homicides per 100 	|  Rank in population 	|
@@ -74,8 +76,6 @@ Heres a list of the biggest states in US by population:
 | 9. North Carolina 	| 10,146,788 	| ✔ 	| 0.200 	|  9 	|
 | 10. Louisiana     	| 4,681,666  	|  	| 0.419	| 25 	| 
 
-
-![picture alt](http://i.imgur.com/RyLyWNR.png)
 
 ## 8. Are younger perpetrators (age 15-25) more likely to get caught then older ones (25+)?
 The % of people not getting caught has so little a difference. Age doesn't affect chances of getting caught statistically.  
