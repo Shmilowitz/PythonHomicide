@@ -19,7 +19,8 @@ Solutions
 There is a lot of "unknowns" in both graphs, which makes it harder to make it harder to analyze.  
 Hispanic are more involved in crimes than non-hispanic(Both victims and perpetrators).  
 Less unknown ethnicity in victim's graph. Probably easier to document the ethnicity of victims than perpetrators for unsolved cases.
-<img src="http://i.imgur.com/lqvISgY.png" width="49%"/> <img src="http://i.imgur.com/kiTMhvX.png" width="49%"/> 
+|![picture alt](http://i.imgur.com/lqvISgY.png) | ![picture alt](http://i.imgur.com/kiTMhvX.png)|
+|:---:|:---:| 
 ![picture alt](http://i.imgur.com/lqvISgY.png, width="425")  ![picture alt](http://i.imgur.com/kiTMhvX.png, width="425")
 
 
